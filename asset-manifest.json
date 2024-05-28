@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/habot_landing_page/static/css/main.cea0d60d.css",
+    "main.js": "/habot_landing_page/static/js/main.5fea2912.js",
+    "static/js/453.c6b32740.chunk.js": "/habot_landing_page/static/js/453.c6b32740.chunk.js",
+    "static/media/bg-img.png": "/habot_landing_page/static/media/bg-img.4f3a1615d7785f73c314.png",
+    "static/media/footer-logo.png": "/habot_landing_page/static/media/footer-logo.a8d92216c80df9045ae9.png",
+    "static/media/insta.png": "/habot_landing_page/static/media/insta.6bc88bf5386acf49ad53.png",
+    "static/media/twitter.png": "/habot_landing_page/static/media/twitter.36bdb9ac9bf34c642f46.png",
+    "static/media/linkedin.png": "/habot_landing_page/static/media/linkedin.e241706ba253ad68ccf8.png",
+    "static/media/facebook.png": "/habot_landing_page/static/media/facebook.72137de41d3d613a11f1.png",
+    "static/media/video-img.jpeg": "/habot_landing_page/static/media/video-img.1363f535883399ecbd81.jpeg",
+    "static/media/logo.png": "/habot_landing_page/static/media/logo.611ef85529e6f46a3ccb.png",
+    "static/media/pin.png": "/habot_landing_page/static/media/pin.4fb70ecc35a1d45e8317.png",
+    "static/media/checked.png": "/habot_landing_page/static/media/checked.6f298cca57a5a8b36055.png",
+    "static/media/briefcase.png": "/habot_landing_page/static/media/briefcase.50ec3a71e4fcda50be91.png",
+    "index.html": "/habot_landing_page/index.html",
+    "main.cea0d60d.css.map": "/habot_landing_page/static/css/main.cea0d60d.css.map",
+    "main.5fea2912.js.map": "/habot_landing_page/static/js/main.5fea2912.js.map",
+    "453.c6b32740.chunk.js.map": "/habot_landing_page/static/js/453.c6b32740.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cea0d60d.css",
+    "static/js/main.5fea2912.js"
+  ]
+}
