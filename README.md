@@ -40,3 +40,6 @@ To run this project locally, follow these steps:
 
 4. Start the development server:
    npm start
+
+##To view live prototype visit:
+https://shiiivani.github.io/habot_landing_page/
