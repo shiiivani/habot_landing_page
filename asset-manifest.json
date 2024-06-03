@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/habot_landing_page/static/css/main.cea0d60d.css",
+    "main.css": "/habot_landing_page/static/css/main.3fe7a326.css",
     "main.js": "/habot_landing_page/static/js/main.5fea2912.js",
     "static/js/453.c6b32740.chunk.js": "/habot_landing_page/static/js/453.c6b32740.chunk.js",
     "static/media/bg-img.png": "/habot_landing_page/static/media/bg-img.4f3a1615d7785f73c314.png",
@@ -15,12 +15,12 @@
     "static/media/checked.png": "/habot_landing_page/static/media/checked.6f298cca57a5a8b36055.png",
     "static/media/briefcase.png": "/habot_landing_page/static/media/briefcase.50ec3a71e4fcda50be91.png",
     "index.html": "/habot_landing_page/index.html",
-    "main.cea0d60d.css.map": "/habot_landing_page/static/css/main.cea0d60d.css.map",
+    "main.3fe7a326.css.map": "/habot_landing_page/static/css/main.3fe7a326.css.map",
     "main.5fea2912.js.map": "/habot_landing_page/static/js/main.5fea2912.js.map",
     "453.c6b32740.chunk.js.map": "/habot_landing_page/static/js/453.c6b32740.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cea0d60d.css",
+    "static/css/main.3fe7a326.css",
     "static/js/main.5fea2912.js"
   ]
 }
