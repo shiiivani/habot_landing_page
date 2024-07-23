@@ -12,6 +12,8 @@
 
 This project is a static frontend landing page built using React. It serves as a demonstration of my skills in frontend development and design, created as part of an assessment for an interview process.
 
+![Project Screenshot](src/assets/preview.png)
+
 ## Features
 
 - Responsive design
