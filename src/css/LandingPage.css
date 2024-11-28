@@ -453,4 +453,7 @@ input:focus {
   .first-section .flex:last-child {
     flex-direction: column;
   }
+  .second-section .right-container img {
+    display: none;
+  }
 }
