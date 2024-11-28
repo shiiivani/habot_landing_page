@@ -103,7 +103,7 @@ function LandingPage() {
         </div>
         <div class="flex justify-content-center mt-10">
           <p class="fw-bold text-white">Are you a buyer? </p>
-          <a class="text-white ml-2">
+          <a class="text-white ml-2 cursor-pointer">
             Click here if you are looking to post a requirements
           </a>
         </div>
