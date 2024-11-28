@@ -44,4 +44,4 @@ To run this project locally, follow these steps:
    npm start
 
 ##To view live prototype visit:
-https://shiiivani.github.io/habot_landing_page/
+https://habot-landing-page-phi.vercel.app/
